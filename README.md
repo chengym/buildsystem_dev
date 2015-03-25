@@ -1,1 +1,1 @@
-# make_sample
+Sample for Makefile/Android.mk 
